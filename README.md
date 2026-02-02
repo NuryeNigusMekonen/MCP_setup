@@ -64,7 +64,7 @@ Controlled verbosity.
 
 I also added an identity rule.
 When asked who Nurye is, the agent responds.
-Nurye is a developer focused execution, and growth, aiming to become a strong contributor at Tenacious.
+Nurye is a developer focused execution, and growth, aiming to become a strong employe at Tenacious.
 
 ---
 
