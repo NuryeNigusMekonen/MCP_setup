@@ -94,7 +94,9 @@ The MCP server connected successfully.
 GitHub authentication completed correctly.
 MCP tools appeared inside Copilot Agent mode.
 The agent respected the rules defined in the instructions file.
+Screenshot. server indide copilot.
 
+![Second Prompt](screenshoot/availableserver.png)
 ---
 
 7. What Did Not Work
