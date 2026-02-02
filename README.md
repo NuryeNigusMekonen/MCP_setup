@@ -50,6 +50,15 @@ The server URL is [https://mcppulse.10academy.org/proxy](https://mcppulse.10acad
 I set the X-Device header to linux.
 I set the X-Coding-Tool header to vscode.
 
+or here below 
+MCP server details
+
+Name: tenxfeedbackanalytics
+
+Type: http
+
+URL: https://mcppulse.10academy.org/proxy
+
 The server appears under installed MCP servers and shows as running.
 
 ---
