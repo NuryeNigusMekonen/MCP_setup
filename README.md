@@ -2,6 +2,17 @@ Task 1 Report
 MCP Setup and Agent Rules Configuration Using VS Code
 
 ---
+Evidence
+
+MCP server tenxfeedbackanalytics shows as running in VS Code
+
+Copilot Agent tools list includes MCP Server tenxfeedbackanalytics
+
+Commit command
+git add README.md
+git commit -m "README: add minimal MCP evidence confirmation"
+
+---
 
 1. Environment Setup
 
