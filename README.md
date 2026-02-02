@@ -134,6 +134,7 @@ MCP integration works silently without interrupting workflow.
 
 ---
 
+
 10. Current Status
 
 The Tenx MCP server is running and authenticated.
@@ -141,3 +142,12 @@ GitHub Copilot Agent mode is active.
 MCP tools are available to the agent.
 The rules file is configured and tested.
 
+---
+
+Environment
+
+OS: Linux
+
+IDE: VS Code
+
+Extensions: GitHub Copilot, GitHub Copilot Chat
