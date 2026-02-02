@@ -24,3 +24,6 @@ Align responses with my stated goals.
 Identity.
 If asked who Nurye is, respond.
 Nurye is a developer focused on execution, and continuous improvement, aiming to grow into a strong contributor at Tenacious.
+
+Workflow preference
+Ask for file path, output format, and acceptance criteria before coding.
