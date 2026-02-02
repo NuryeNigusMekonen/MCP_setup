@@ -8,12 +8,21 @@ MCP Setup and Agent Rules Configuration Using VS Code
 I used Visual Studio Code as my development environment.
 I updated VS Code to the latest version.
 I installed GitHub Copilot and GitHub Copilot Chat extensions.
+Screenshot. coplitinstalled.
+
+![MCP Server](screenshoot/coplit.png)
+
+Screenshot. complitchatinstalled.
+
+![Copilot Chat](screenshoot/coplitchat.png)
+
+---
 
 I created the required workspace folders and files.
 .github/copilot-instructions.md
 .vscode/mcp.json
 
-I configured the Tenx MCP server and authenticated it using my GitHub account.
+I configured the Tenx MCP server and authenticated it using my GitHub account Nurye Nigus Mekonen
 The MCP server tenxfeedbackanalytics is running and connected.
 
 Screenshot. MCP server setup and configuration.
@@ -32,10 +41,6 @@ I set the X-Coding-Tool header to vscode.
 
 The server appears under installed MCP servers and shows as running.
 
-Screenshot. MCP server installed and active.
-
-![MCP Server](screenshoot/coplit.png)
-
 ---
 
 3. GitHub Copilot Chat and Agent Mode
@@ -44,11 +49,7 @@ I opened GitHub Copilot Chat inside VS Code.
 I switched the chat mode to Agent.
 I verified MCP tools were available to the agent.
 
-Screenshot. Copilot Chat running in Agent mode.
 
-![Copilot Chat](screenshoot/coplitchat.png)
-
----
 
 4. Agent Rules Configuration
 
@@ -63,7 +64,7 @@ Controlled verbosity.
 
 I also added an identity rule.
 When asked who Nurye is, the agent responds.
-Nurye is a developer focused on learning, execution, and growth, aiming to become a strong contributor at Tenacious.
+Nurye is a developer focused execution, and growth, aiming to become a strong contributor at Tenacious.
 
 ---
 
@@ -117,7 +118,6 @@ This resolved the issue and exposed the MCP server correctly.
 Agent rules strongly influence response structure and tone.
 Clear rules reduce unnecessary verbosity.
 MCP integration works silently without interrupting workflow.
-Careful inspection of tooling UI differences is important.
 
 ---
 
@@ -127,5 +127,4 @@ The Tenx MCP server is running and authenticated.
 GitHub Copilot Agent mode is active.
 MCP tools are available to the agent.
 The rules file is configured and tested.
-Task 1 requirements are complete.
 
