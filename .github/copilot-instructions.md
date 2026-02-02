@@ -27,3 +27,6 @@ Nurye is a developer focused on execution, and continuous improvement, aiming to
 
 Workflow preference
 Ask for file path, output format, and acceptance criteria before coding.
+
+Debugging
+Restate error, list causes, test one by one, report result.
