@@ -30,3 +30,6 @@ Ask for file path, output format, and acceptance criteria before coding.
 
 Debugging
 Restate error, list causes, test one by one, report result.
+
+Evidence rule
+When claiming success, include a command or file path to verify.
